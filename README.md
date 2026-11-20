@@ -1,4 +1,4 @@
- # Digital Signal Processing
+# Digital Signal Processing
 
 A practical introduction to **Digital Signal Processing (DSP)** using Python. This project explores fundamental signal processing techniques through numerical implementations, audio experiments, and signal analysis.
 
